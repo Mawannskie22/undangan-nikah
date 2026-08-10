@@ -12,6 +12,8 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Cloned WordPress assets (third-party, minified).
+    "public/clone/**",
   ]),
 ]);
 

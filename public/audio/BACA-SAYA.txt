@@ -1,0 +1,1 @@
+Taruh file musik mp3 di folder ini, lalu ubah `musik` di `src/lib/wedding-data.ts` (default: /audio/music.mp3).
