@@ -91,7 +91,7 @@ export const weddingData = {
       waktu: "Pukul 08:00 - 09:00 WIB",
       tempat: "GOR OTISTA",
       alamat: "Jl. Otista Raya No. 121, Bidara Cina - Jakarta Timur",
-      maps: "https://www.google.com/maps/search/?api=1&query=GOR+Otista,+Jl.+Otista+Raya+No.+121,+Bidara+Cina,+Jakarta+Timur",
+      maps: "https://maps.app.goo.gl/Zab5HHrBVdTMz4rRA",
     },
     {
       judul: "Resepsi Pernikahan",
@@ -100,7 +100,7 @@ export const weddingData = {
       waktu: "Pukul 11:00 - 13:00 WIB",
       tempat: "GOR OTISTA",
       alamat: "Jl. Otista Raya No. 121, Bidara Cina - Jakarta Timur",
-      maps: "https://www.google.com/maps/search/?api=1&query=GOR+Otista,+Jl.+Otista+Raya+No.+121,+Bidara+Cina,+Jakarta+Timur",
+      maps: "https://maps.app.goo.gl/Zab5HHrBVdTMz4rRA",
     },
   ],
 
@@ -162,24 +162,21 @@ export const ayatPenutup = {
 
 export const loveStory = [
   {
-    tahun: "2021",
-    judul: "Pertemuan",
+    tahun: "01. 2010 - 2020",
+    judul: "Awal Kisah",
     deskripsi:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
-    foto: "/images/foto/MLP09209.JPG",
+      "Sebuah kisah sederhana bermula di tahun 2010 sepasang anak remaja yang mulai saling mengenal melalui mutual friend di sekolah dan saling berkomunikasi melalui media sosial. Kami saling bercerita, mensupport, membersamai demi satu tujuan kuliah di PTN. Kesibukan masing-masing di dunia baru dalam perkuliahan menjadi landasan hilangnya kabar, hingga pada 2020 takdir kembali mempertemukan kami sebagai dua pribadi yang telah tumbuh, belajar, dan melalui perjalanan masing-masing.",
   },
   {
-    tahun: "2022",
+    tahun: "02. Februari 2026",
     judul: "Lamaran",
     deskripsi:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
-    foto: "/images/foto/MLP09225.JPG",
+      "Dengan segala perjalanan masing-masing yang telah kami lewati, kami memilih untuk berjalan bersama menjadi \"kita\" kembali. Hingga pada Februari 2026, sebuah lamaran menjadi langkah nyata untuk membawa hubungan ini menuju satu tujuan yakni membangun kehidupan bersama.",
   },
   {
-    tahun: "2023",
-    judul: "Menikah",
+    tahun: "03. Oktober 2026",
+    judul: "Pernikahan",
     deskripsi:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
-    foto: "/images/foto/MLP09301.JPG",
+      "Kisah kami bukan lagi tentang diri masing-masing yang mempertahankan ego, melainkan menjadi satu hati dan satu tujuan untuk melangkah bersama dengan mengharapkan ridho Allah SWT.",
   },
 ];

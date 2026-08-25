@@ -46,7 +46,3 @@ download-clone.ps1
 
 # working copies / local assets
 /foto/
-
-# music (copyrighted - do not commit)
-/public/audio/song.m4a
-**/Shania-Twain*.mp3

@@ -19,7 +19,7 @@ export function Hero() {
         />
       ) : foto ? (
         <div
-          className="absolute inset-0 bg-cover bg-center"
+          className="absolute inset-0 bg-cover bg-[center_35%] md:bg-[center_40%]"
           style={{ backgroundImage: `url(${foto})` }}
           aria-hidden="true"
         />
