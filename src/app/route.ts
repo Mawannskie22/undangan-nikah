@@ -1,12 +1,10 @@
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
 
-const html = readFileSync(
-  join(process.cwd(), "public", "clone", "full.html"),
-  "utf8",
-);
+const htmlPath = join(process.cwd(), "public", "clone", "full.html");
 
 export async function GET() {
+  const html = readFileSync(htmlPath, "utf8");
   return new Response(html, {
     headers: {
       "Content-Type": "text/html; charset=utf-8",
